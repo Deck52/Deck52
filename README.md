@@ -1,52 +1,59 @@
-Hi there 👋
-I'm a passionate developer with a love for building things and a constant curiosity for learning. I specialize in front-end development, but I enjoy exploring all parts of the stack.
+# Hi 👋, I'm Bharath V  
 
-🔭 I'm currently working on...
-A personal portfolio website to showcase my projects.
+🚀 Passionate about **Software Development | Machine Learning | MERN Stack | Java | Renewable Energy Systems**  
+🎯 Always curious about solving real-world problems with technology and innovation.  
 
-Contributing to open-source projects.
+---
 
-Building a full-stack e-commerce application.
+## 🔥 About Me  
+- 🌱 Currently learning **Java 8, Machine Learning, MERN Stack Development**  
+- 📚 Worked on projects like:  
+  - **ExoPlanet Explorer** 🌌 (MERN stack project visualizing NASA Exoplanet data)  
+  - **Book Genre Classifier** 📚 (ML project using NLP on book blurbs)  
+  - Assignments on **Renewable Energy Power Plants** (BME654B)  
+- 🎓 Strong foundation in **Research Methods, Ethics, and Critical Reading**  
+- ⚡ Interests: AI, Renewable Tech, Full-Stack Web Apps, Open Source  
 
-🌱 I'm currently learning...
-Advanced React concepts like state management with Zustand and server components.
+---
 
-Backend development with Node.js and Express.
+## 🛠️ Tech Stack  
 
-Database design with MongoDB.
+**Languages & Core Skills:**  
+`Java` • `Python` • `C` • `C++` • `JavaScript (ES6+)` • `SQL`  
 
-👯 I'm looking to collaborate on...
-Web development projects using modern frameworks (React, Vue, etc.).
+**Web Development:**  
+`React` • `Node.js` • `Express` • `MongoDB` • `MERN Stack` • `REST APIs`  
 
-Educational tools or applications.
+**Machine Learning & Data Science:**  
+`Scikit-learn` • `Pandas` • `NumPy` • `TfidfVectorizer` • `Logistic Regression` • `NLP`  
 
-Small-scale games or creative coding projects.
+**DevOps & Tools:**  
+`Git` • `GitHub` • `Maven` • `Gradle` • `Jenkins` • `Ansible` • `Azure DevOps`  
 
-💬 Ask me about...
-JavaScript, React, or CSS.
+**Other Interests:**  
+Renewable Energy ⚡ | AI 🤖 | Research 📑  
 
-Building responsive websites.
+---
 
-My favorite video games!
+## 📊 GitHub Stats  
 
-My Toolbox
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode" />
-</a>
-</p>
+![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deck52&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deck52&layout=compact&theme=radical)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Deck52&theme=radical)  
 
-📊 My GitHub Stats
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Deck52%26show_icons%3Dtrue%26theme%3Ddefault" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Deck52%26layout%3Dcompact%26theme%3Ddefault" alt="Top Languages" />
-</p>
+---
 
-<!-- NOTE: Replace YOUR_USERNAME with your actual GitHub username. -->
+## 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](YOUR_KAGGLE_URL)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=githubpages&logoColor=white)](YOUR_PORTFOLIO_URL)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)  
 
-📫 How to reach me...
-Email: your.email@example.com
+---
 
-LinkedIn: your-linkedin-profile
+## 👀 Visitor Count  
+![Visitor Count](https://komarev.com/ghpvc/?username=Deck52&color=blue&style=flat)  
 
-Twitter/X: your-twitter-handle
+---
+
+💡 *“Code, Research, Innovate – Repeat.”*  
