@@ -1,16 +1,52 @@
-## Hi there 👋
+Hi there 👋
+I'm a passionate developer with a love for building things and a constant curiosity for learning. I specialize in front-end development, but I enjoy exploring all parts of the stack.
 
-<!--
-**Deck52/Deck52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I'm currently working on...
+A personal portfolio website to showcase my projects.
 
-Here are some ideas to get you started:
+Contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building a full-stack e-commerce application.
+
+🌱 I'm currently learning...
+Advanced React concepts like state management with Zustand and server components.
+
+Backend development with Node.js and Express.
+
+Database design with MongoDB.
+
+👯 I'm looking to collaborate on...
+Web development projects using modern frameworks (React, Vue, etc.).
+
+Educational tools or applications.
+
+Small-scale games or creative coding projects.
+
+💬 Ask me about...
+JavaScript, React, or CSS.
+
+Building responsive websites.
+
+My favorite video games!
+
+My Toolbox
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode" />
+</a>
+</p>
+
+📊 My GitHub Stats
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Ddefault" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME%26layout%3Dcompact%26theme%3Ddefault" alt="Top Languages" />
+</p>
+
+<!-- NOTE: Replace YOUR_USERNAME with your actual GitHub username. -->
+
+📫 How to reach me...
+Email: your.email@example.com
+
+LinkedIn: your-linkedin-profile
+
+Twitter/X: your-twitter-handle
