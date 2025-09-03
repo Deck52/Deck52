@@ -38,8 +38,8 @@ My Toolbox
 
 📊 My GitHub Stats
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDeck52%26show_icons%3Dtrue%26theme%3Ddefault" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDeck52%26layout%3Dcompact%26theme%3Ddefault" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Deck52%26show_icons%3Dtrue%26theme%3Ddefault" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Deck52%26layout%3Dcompact%26theme%3Ddefault" alt="Top Languages" />
 </p>
 
 <!-- NOTE: Replace YOUR_USERNAME with your actual GitHub username. -->
